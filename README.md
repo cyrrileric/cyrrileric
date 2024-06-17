@@ -4,7 +4,7 @@
 
 ## <picture><img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"></picture>
 
-![](https://komarev.com/ghpvc/?username=praryo&color=11116f&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=cyrrileric&color=11116f&style=for-the-badge)
 
 <b>Programming Languages, Skills & Experience:</b>
 
