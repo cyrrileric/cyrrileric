@@ -1,7 +1,22 @@
-## Hi there 👋
+<div align="center">
+<h1>Cyrrile Ric</h1>
+<code>I am Cyrrile Ric Victoriano, 22 years old. I have been passionate about developing software since I was in grade school and I am knowledgeable in different programming languages.</code>
+
+## <picture><img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"></picture>
+
+![](https://komarev.com/ghpvc/?username=praryo&color=11116f&style=for-the-badge)
+
+<b>Programming Languages, Skills & Experience:</b>
+
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=au,autocad,azure,aws,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,docker,dotnet,eclipse,git,github,githubactions,gitlab,grafana,html,instagram,java,js,jquery,laravel,linkedin,linux,lua,mysql,nginx,nodejs,php,py,regex,replit,sass,stackoverflow,svg,tailwind,twitter,ts,vercel,visualstudio,vscode" />
+    </a>
+</p>
+</div>
 
 <!--
-**cyrrileric/cyrrileric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Praryo/Praryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
