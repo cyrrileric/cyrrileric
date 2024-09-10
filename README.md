@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Cyrrile Ric</h1>
-<code>I am Cyrrile Ric Victoriano, 22 years old. I have been passionate about developing software since I was in grade school and I am knowledgeable in different programming languages.</code>
+<h1>Praryo</h1>
+<code>I am Praryo, 22 years old. I have been passionate about developing software since I was in grade school and I am knowledgeable in different programming languages.</code>
 
 ## <picture><img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"></picture>
 
